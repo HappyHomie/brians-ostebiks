@@ -1,0 +1,137 @@
+[
+    {
+      "id": 1,
+      "navn": "Brie",
+      "land": "Danmark",
+      "vægt": 500,
+      "pris": 55.50,
+      "beskrivelse": "Klassisk brieost på komælk med hvidskimmel efter traditionelt fransk forbillede.",
+      "kategori": "ost",
+      "billeder": [
+        "https://shop.gerald.ph/content/images/thumbs/0002966_brie-bridel_340.jpeg",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150"
+      ]
+    },
+    {
+      "id": 2,
+      "navn": "Emmentaler",
+      "land": "Schweiz",
+      "vægt": 200,
+      "pris": 32.95,
+      "beskrivelse": "Ekstra lagret (6 mdr.) fransk Emmental. En karakterfuld smag uden at være stærk.",
+      "kategori": "ost",
+      "billeder": [
+        "https://www.emmentaler.ch/wp-content/uploads/2018/02/eidgenoss_slider.png",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150"
+      ]
+    },
+    {
+      "id": 3,
+      "navn": "Havgus",
+      "land": "Danmark",
+      "vægt": 250,
+      "pris": 67.50,
+      "beskrivelse": "Havgus 12 fremstilles på Tistrup Mejeri. Her har vi en helt speciel mælkesyrekultur, der er holdt i live ved daglig podning siden 1943.",
+      "kategori": "ost",
+      "billeder": [
+        "https://feinschmeckeren.dk/assets/unika-ost.jpg",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150"
+      ]
+    },
+    {
+      "id": 4,
+      "navn": "Baguette",
+      "land": "Frankrig",
+      "vægt": 250,
+      "pris": 12.50,
+      "beskrivelse": "Flot mørkt og rustikt baguette.",
+      "kategori": "brød",
+      "billeder": [
+        "https://www.bakersdelight.com.au/wp-content/uploads/2018/10/9650-768x768.jpg",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150"
+      ]
+    },
+    {
+      "id": 5,
+      "navn": "Ciabatta",
+      "land": "Italien",
+      "vægt": 400,
+      "pris": 32,
+      "beskrivelse": "Vores sprøde italienske flute er luftigt og med en mild smag af surdej.",
+      "kategori": "brød",
+      "billeder": [
+        "https://www.bakedbyanintrovert.com/wp-content/uploads/2018/05/Ciabatta-Bread-Recipe.jpg",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150"
+      ]
+    },
+    {
+      "id": 6,
+      "navn": "Rugbrød",
+      "land": "Danmark",
+      "vægt": 950,
+      "pris": 21.95,
+      "beskrivelse": "Godt rugbrød kræver godt håndværk. Og det er der masser af i dette solsikkerugbrød fra Schulstad.",
+      "kategori": "brød",
+      "billeder": [
+        "https://www.valdemarsro.dk/wp-content/2017/11/rugbroed-opskrift.jpg",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150"
+      ]
+    },
+    {
+      "id": 7,
+      "navn": "Cotes du Rhone",
+      "land": "Frankrig",
+      "vægt": 950,
+      "pris": 195,
+      "beskrivelse": "Moden frugt, solbærlikør, lakrids og sydfranske krydderurter som Rosmarin, timian og lavendel - en behagelig sødme.",
+      "kategori": "vin",
+      "billeder": [
+        "https://www.totalwine.com/dynamic/1000x/media/sys_master/twmmedia/h63/hcc/8806075531294.png",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150"
+      ]
+    },
+    {
+      "id": 8,
+      "navn": "Pomerol",
+      "land": "Frankrig",
+      "vægt": 950,
+      "pris": 769,
+      "beskrivelse": "Pomerol er sammen med st. emilion, en af de mest kendte regioner i bordeaux.",
+      "kategori": "vin",
+      "billeder": [
+        "https://5304282f92ff1d1b19c1-8a2ebff5f6260504c3c482982d840415.ssl.cf3.rackcdn.com/images/products/7746.jpg",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150"
+      ]
+    },
+    {
+      "id": 9,
+      "navn": "Nebbiolo",
+      "land": "Italien",
+      "vægt": 950,
+      "pris": 395,
+      "beskrivelse": " Druen bag klassikere som Barolo og Barbaresco og dermed nok Italiens højst besungne rødvinssort.",
+      "kategori": "vin",
+      "billeder": [
+        "https://data.callmewine.com/imgprodotto/nebbiolo-mauro-molino-2018_19351_zoom.jpg",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150",
+        "https://via.placeholder.com/150"
+      ]
+    }
+  ]

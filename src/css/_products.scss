@@ -1,0 +1,24 @@
+.products__main{
+    padding: 0 50px;
+}
+
+.cardList__item{
+    list-style: none;
+    display: flex;
+    padding-top: 30px;
+    img{
+        padding-right: 30px;
+        width: 300px;
+        height: 225px;
+    }
+    h4{
+        margin-top: 5px;
+    }
+    .mere{
+        padding-left: 250px;
+    }
+}
+
+td{
+    padding-left: 40px;
+}

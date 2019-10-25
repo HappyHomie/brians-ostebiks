@@ -1,0 +1,36 @@
+<%include ../partials/head %> <%include ../partials/header %>
+
+<main class="products__main">
+  <h1>Produktkategori</h1>
+  <h4>Kategoripræsentation</h4>
+  <ul class="cardList"></ul>
+</main>
+
+<template id="cardTemplate">
+<li class="cardList__item">
+  <img class="img" src="https://via.placeholder.com/150" alt="" />
+  <article>
+  <h1></h1>
+  <p></p>
+  <table>
+    <tr>
+      <th>Land</th>
+      <td class="land">DK</td>
+    </tr>
+    <tr>
+      <th>Vægt</th>
+      <td class="vægt">250g</td>
+    </tr>
+    <tr>
+      <th>Pris</th>
+      <td class="pris">DKK 65,75</td>
+    </tr>
+  </table>
+    <a class="mere" href="">Læs mere</a>
+  </article>
+</li>
+</template>
+
+<script src="/assets/js/getProducts.js"></script>
+
+<% include ../partials/footer %>
