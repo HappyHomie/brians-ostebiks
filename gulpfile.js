@@ -71,7 +71,7 @@ gulp.task("dev", function(done){
 });
 
 gulp.task("build", function(done){
-    watcher();
+    watcher(done);
     done();
 });
 
